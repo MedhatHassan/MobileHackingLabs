@@ -17,7 +17,7 @@ Explore the challenges and their corresponding category and description:
 
 | Category | Challenge Name | Description |
 | :--- | :--- | :--- |
-| Android | [Secure Notes](./Android/SecureNotes/Findings.md) | Exported Content Provider, PBKDF2, AES-CBC Decryption, Brute Force, Padding Oracle filtration |
+| Android | [Secure Notes](./Android/secureNotes/Findings.md) | Exported Content Provider, PBKDF2, AES-CBC Decryption, Brute Force, Padding Oracle filtration |
 
 ---
 
