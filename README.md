@@ -18,7 +18,7 @@ Explore the challenges and their corresponding category and description:
 | Category | Challenge Name | Description |
 | :--- | :--- | :--- |
 | Android | [Secure Notes](./Android/secureNotes/Findings.md) | Exported Content Provider, PBKDF2, AES-CBC Decryption, Brute Force, Padding Oracle filtration |
-
+| Android | [Strings](./Android/strings/Findings.md) | Deep Link Exploitation, SharedPreferences Injection, AES-CBC Decryption, Native Library Analysis (Ghidra), Runtime Memory Forensics |
 ---
 
 
