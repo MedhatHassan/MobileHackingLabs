@@ -19,6 +19,7 @@ Explore the challenges and their corresponding category and description:
 | :--- | :--- | :--- |
 | Android | [Secure Notes](./Android/secureNotes/Findings.md) | Exported Content Provider, PBKDF2, AES-CBC Decryption, Brute Force, Padding Oracle filtration |
 | Android | [Strings](./Android/strings/Findings.md) | Deep Link Exploitation, SharedPreferences Injection, AES-CBC Decryption, Native Library Analysis (Ghidra), Runtime Memory Forensics |
+| Android | [Food Store](./Android/foodstore/Findings.md) | Stored SQL Injection, Insecure Intent Handling (Auth Bypass), Privilege Escalation, Base64 Encoding flaws |
 ---
 
 
